@@ -23,9 +23,9 @@ A partir da compreensão de como fundos imobiliários funcionam e das perguntas 
 * **Alocação por Perfil:** Permite selecionar um perfil de investidor (conservador, moderado, agressivo) e sugere automaticamente a distribuição do aporte mensal entre os diferentes tipos de FII (Papel, Tijolo, Híbridos, FOFs, Desenvolvimento e Hotelaria).
 * **Visualização Clara:** Exibe tudo de forma visual, com gráficos de evolução e gráfico de distribuição da carteira.
 
-![Visão dos Cálculos e Cenários](Imagens%20projeto%20excel/Simulador-meio.png)
+![Visão dos Cálculos e Cenários](imagens-simulador-fii/simulador-meio.png)
 
-![Visão Final do Simulador e Gráficos](Imagens%20projeto%20excel/Simulador-fim.png)
+![Visão Final do Simulador e Gráficos](imagens-simulador-fii/simulador-fim.png)
 
 ---
 
@@ -47,7 +47,7 @@ A partir da compreensão de como fundos imobiliários funcionam e das perguntas 
 
 Foi criada uma tabela de apoio separada, categorizando cada perfil de investidor (conservador, moderado, agressivo) com seus respectivos percentuais sugeridos por tipo de FII. Na tela principal, a validação de dados oferece a lista de perfis disponíveis, e um `PROCV` busca automaticamente a distribuição correspondente na tabela de apoio — sem necessidade de duplicar fórmulas ou ajustar valores manualmente.
 
-![Tabela Auxiliar do Perfil Investidor](Imagens%20projeto%20excel/Tabela%20auxiliar%20de%20perfil%20investid.png)
+![Tabela Auxiliar do Perfil Investidor](imagens-simulador-fii/tabela-auxiliar-perfil-investidor.png)
 
 ---
 
