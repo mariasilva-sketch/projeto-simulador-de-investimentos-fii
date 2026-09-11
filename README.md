@@ -2,7 +2,7 @@
 
 Projeto desenvolvido no **Bootcamp Santander de Excel + IA**, com o objetivo de aplicar conceitos de Excel na construção de uma ferramenta prática de simulação de investimentos em Fundos Imobiliários.
 
-![Visão Inicial do Simulador](Imagens%20projeto%20excel/Simulador-inicio.png)
+![Visão Inicial do Simulador](Imagens projeto excel/Simulador-inicio.png)
 
 ---
 
